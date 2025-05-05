@@ -44,7 +44,7 @@
 
 > Schauen nach anderen Arbeiten zum Thema
 > - Gegebenenfalls justieren
-> - Arbeit nicht noch mal machen
+> - getane Arbeit nicht noch mal machen
 
 ### General
 
