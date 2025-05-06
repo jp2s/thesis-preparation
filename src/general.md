@@ -53,7 +53,7 @@
 - Belange nicht vermischen / ordnung reinkriegen
 - Struktur
   - Motivation
-  - Abgrenzung zu bestehenden arbeiten
+  - Abgrenzung zu bestehenden Arbeiten
   - Kontext
   - Problem/Fragestellung
   - Welche Ziele/Ergebnisse angestrebt
