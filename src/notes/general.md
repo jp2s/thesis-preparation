@@ -1,5 +1,62 @@
 > Termin 2: 08.05.25 - 17:30
 
+# Termin 2 `08.05.25 - 17:30`
+
+## Fragen
+
+- Soll Literatur eher ein Paper oder Technical Book (O'Reilly) sein
+  - bei praktischer Umsetzung Technical
+  - bei Überblick oder Stand der Forschung Papers
+  - grauen Literatur ggf.
+- wann zweitprüfer anschreiben
+  - wenn expose steht/vor antrag
+- was sind methoden
+  - ergebnisse mit methoden erzielen
+  - wissenschaftliche arbeit hat methodik, mit der forschungsfrage beantwortet oder ergebnis erreicht
+  - expose skizziert methode
+    - vor augen haben
+    - daraus ergeben sich die arbeitsschritte/zeiteinschätzungen
+    - zusammenhang ergebnis/fragestellung/problematik
+
+- motivation/problemstellung/fragen/ziele/methodik
+  - motivation/kontext
+    - warum, welcher kontext
+  - problemstellung
+    - wo liegt das problem
+    - zur problemlösung welche fragen muss ich bearbeiten
+  - wenn ich diese fragen beantworte, entstehen diese ergebnisse/ziele
+  - methodik
+
+## Notes
+
+- für feedback melden
+- Dienstreise
+  - 16.05 bis 19.05 abwesend
+- Leitfaeden/Dinge schon beschrieben
+  - aber Probleme
+  - was fehlt
+  - mein Leitfaden ist was Unternehmen als Beratung anbietet
+- bestehendes
+  - welche tools
+  - was hilft mir die literatur, das aufzusetzen
+- bereich nehmen, der schon als test bereit ist
+  - gesamtes zuviel
+  - poc wie kriegt man integriert
+- nicht nur leitfaden sondern integrationskonzept
+  - wie funktioniert ik, wie ist vorgehensweise
+  - wie integriert man
+- 4 wochen realistisch für expose
+  - und technisch muss laufen
+  - technische unwirksamkeiten abgeklärt zum besser abschätzen
+  - technisches integrationskonzept realiseren, dann leitfaden wie läuft dann prüfung anhand der integration
+  - wie sieht das aus in entwicklung von software, in dem iterativen prozess
+  - weiter prüfen ob es schon framework gibt für implementierung von bf prüfung
+  - fragen genau sehen, wie man noch lösen muss
+  - tools suchen und wissenschaft suchen, was in diesem iterativen prozess fehlt
+  - iterative prüfen
+
+---
+
 # Termin 1 `30.04.25 - 15:30`
 
 ## Fragen 
@@ -49,8 +106,9 @@
 ### General
 
 ### Exposé
+
 - Vorlage nicht in Stein gemeißelt
-- Belange nicht vermischen / ordnung reinkriegen
+- Belange nicht vermischen / Ordnung schaffen
 - Struktur
   - Motivation
   - Abgrenzung zu bestehenden Arbeiten
@@ -65,7 +123,7 @@
   - Vorgehen
   - Angestrebte Ergebnisse planen
   - Bei Beginn der Bachelorarbeit einfach machen, nicht noch überlegen/planen
-    - Vorarbeit bei exposé
+    - Vorarbeit bei Exposé
   - Zeitaufwand planen
     - Vergleich was es schon gibt
   - Literaturrecherche
@@ -79,6 +137,8 @@
   - Schritte für Gesetz
   - Methodische Herangehensweise
   - Für Menschen, die noch nichts gemacht haben in der Richtung
+
+---
 
 # Webinar `29.04.25 11:00-12:00`
 
