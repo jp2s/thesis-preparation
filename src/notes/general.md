@@ -1,4 +1,6 @@
-> Termin 2: 08.05.25 - 17:30
+> Kein nächster Termin
+>   - voraussichtlich in 3 Wochen nach Termin 2 wegen 4 Wochen Bearbeitungsdauer vom Exposé
+>   - nach Bedarf oder wenn Feedback gebraucht wird
 
 # Termin 2 `08.05.25 - 17:30`
 
