@@ -6,7 +6,7 @@
 
 ### General
 
-- Wer zweitprüfer
+- Wer Zweitprüfer
   - Selbst anschreiben
   - Anforderungen
     - Sollte schon mal Abschlussarbeit geprüft/betreut? haben
@@ -14,7 +14,7 @@
 - Wie genau Ansprechpartner, Fragen etc.
   - Termine möglich für Fragen
 - Exposé einfach an Prüfungsausschuss oder nochmal Absprache mit Ihnen
-  - nochmal absprache => Termin 2
+  - nochmal Absprache => Termin 2
 
 ### Antrag (ISS)
 
