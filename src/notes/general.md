@@ -4,56 +4,62 @@
 
 ## Fragen
 
-- Soll Literatur eher ein Paper oder Technical Book (O'Reilly) sein
-  - bei praktischer Umsetzung Technical
-  - bei Überblick oder Stand der Forschung Papers
-  - grauen Literatur ggf.
-- wann zweitprüfer anschreiben
-  - wenn expose steht/vor antrag
-- was sind methoden
-  - ergebnisse mit methoden erzielen
-  - wissenschaftliche arbeit hat methodik, mit der forschungsfrage beantwortet oder ergebnis erreicht
-  - expose skizziert methode
-    - vor augen haben
-    - daraus ergeben sich die arbeitsschritte/zeiteinschätzungen
-    - zusammenhang ergebnis/fragestellung/problematik
-
-- motivation/problemstellung/fragen/ziele/methodik
-  - motivation/kontext
-    - warum, welcher kontext
-  - problemstellung
-    - wo liegt das problem
-    - zur problemlösung welche fragen muss ich bearbeiten
-  - wenn ich diese fragen beantworte, entstehen diese ergebnisse/ziele
-  - methodik
+- Soll Literatur eher ein Paper oder Technical Book (O'Reilly) sein?
+  - Technical eher bei praktischer Umsetzung
+  - Papers bei Überblick oder Stand der Forschung 
+  - ggf. graue Literatur
+- wann Zweitprüfer anschreiben
+  - Wenn Exposé steht bzw. bevor Antrag machen
+- Was sind Methoden
+  - Ergebnisse mit Methoden erzielen
+  - Wissenschaftliche Arbeit hat Methodik, mit der Forschungsfrage beantwortet oder Ergebnis erreicht wird
+  - Exposé skizziert methode
+    - Methoden vor Augen haben
+    - Daraus ergeben sich die Arbeitsschritte/Zeiteinschätzungen
+    - Zusammenhang Ergebnis/Fragestellung/Problematik
 
 ## Notes
 
-- für feedback melden
-- Dienstreise
-  - 16.05 bis 19.05 abwesend
-- Leitfaeden/Dinge schon beschrieben
-  - aber Probleme
-  - was fehlt
-  - mein Leitfaden ist was Unternehmen als Beratung anbietet
-- bestehendes
-  - welche tools
-  - was hilft mir die literatur, das aufzusetzen
-- bereich nehmen, der schon als test bereit ist
-  - gesamtes zuviel
-  - poc wie kriegt man integriert
-- nicht nur leitfaden sondern integrationskonzept
-  - wie funktioniert ik, wie ist vorgehensweise
-  - wie integriert man
-- 4 wochen realistisch für expose
-  - und technisch muss laufen
-  - technische unwirksamkeiten abgeklärt zum besser abschätzen
-  - technisches integrationskonzept realiseren, dann leitfaden wie läuft dann prüfung anhand der integration
-  - wie sieht das aus in entwicklung von software, in dem iterativen prozess
-  - weiter prüfen ob es schon framework gibt für implementierung von bf prüfung
-  - fragen genau sehen, wie man noch lösen muss
-  - tools suchen und wissenschaft suchen, was in diesem iterativen prozess fehlt
-  - iterative prüfen
+> - Dienstreise
+>   - `16.05. - 19.05.` abwesend
+> - 4 wochen realistisch für Exposé
+> - Exposé skizziert Methoden
+>   - Thesis konkretisiert/verfeinert
+
+- Motivation/Problemstellung/Fragen/Ziele/Methodik
+  - Motivation/Kontext
+    - Warum dieses Thema
+    - Welcher Kontext
+  - Problemstellung
+    - Wo liegt das Problem
+    - Welche `Fragen` muss ich zur Problemlösung bearbeiten 
+  - Ergebnisse/Ziele
+    - Wenn ich diese `Fragen` beantworte, entstehen diese Ergebnisse/Ziele 
+  - Methodik
+- Für Feedback melden
+- Leitfäden/Dinge ggf. schon beschrieben (in anderen Arbeiten/Papers etc.)
+  - Aber Probleme
+  - Was fehlt
+  - Mein Leitfaden könnte das sein, was Unternehmen als Beratung anbieten
+- Bestehendes
+  - Welche Tools
+  - Was hilft mir die Literatur, das aufzusetzen
+- Bereich nehmen, der schon als Test bereit ist
+  - Gesamtes zuviel
+  - POC darüber, wie man das integriert bekommt
+- Nicht nur Leitfaden, sondern Integrationskonzept
+  - Wie funktioniert Integrationskonzept
+  - Wie ist Vorgehensweise
+  - Wie integriert man
+- Technisch muss laufen
+  - Technische Unwirksamkeiten abklären zur besseren Abschätzung
+  - Technisches Integrationskonzept realiseren
+    - Dann Leitfaden, wie Prüfung anhand der Integration läuft
+- Wie sieht Prüfung von Barrierefreiheit aus in iterativem Entwicklungsprozess von Software
+  - Weiter prüfen, ob es schon Framework gibt für Implementierung einer Prüfung von Barrierefreiheit
+  - Fragen genau sehen, die man noch lösen muss
+  - Tools und Wissenschaft suchen, was in diesem iterativen Prozess fehlt
+  - Iterative prüfen
 
 ---
 
@@ -101,7 +107,7 @@
 
 > Schauen nach anderen Arbeiten zum Thema
 > - Gegebenenfalls justieren
-> - getane Arbeit nicht noch mal machen
+> - Getane Arbeit nicht noch mal machen
 
 ### General
 
